@@ -1,9 +1,4 @@
 <!--![MasterHead](https://github.com/user-attachments/assets/1b1cb002-e107-469d-8478-af406f2386c9)-->
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/50a383c9-bc60-4e80-99bb-fe6a4822a5ca
-         alt="Welkom" 
-         style="width: 100%; max-width: 1200px; height: 300px; object-fit: cover;">
-</div>
 <h1 align="center">Hi 👋, I'm Kerem Kubat</h1>
 <h3 align="center">Newbie programmer eager to learn.</h3>
 
